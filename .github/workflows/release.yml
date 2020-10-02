@@ -32,7 +32,7 @@ jobs:
           password: ${{ secrets.GHCR_TOKEN }}
 
       - name: Run GoReleaser
-        uses: goreleaser/goreleaser-action@v2.2.0
+        uses: goreleaser/goreleaser-action@v2.2.1
         with:
           version: v0.143.0
           args: release --rm-dist
