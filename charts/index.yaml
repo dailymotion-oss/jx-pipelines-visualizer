@@ -2,6 +2,19 @@ apiVersion: v1
 entries:
   jx-pipelines-visualizer:
   - apiVersion: v1
+    appVersion: 0.0.9
+    created: "2020-10-02T06:55:32.613506098Z"
+    description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
+      - and their logs.
+    digest: 0edf13f7ad8a81a00370593e30426acee88e521680b78b58a892c2a632151e65
+    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    name: jx-pipelines-visualizer
+    sources:
+    - https://github.com/dailymotion/jx-pipelines-visualizer
+    urls:
+    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.9/jx-pipelines-visualizer-0.0.9.tgz
+    version: 0.0.9
+  - apiVersion: v1
     appVersion: 0.0.8
     created: "2020-10-01T15:38:15.970232934Z"
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
