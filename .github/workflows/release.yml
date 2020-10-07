@@ -61,7 +61,7 @@ jobs:
           CR_GIT_REPO: 'jx-pipelines-visualizer'
 
       - name: Push Helm Charts Index
-        uses: peaceiris/actions-gh-pages@v3.7.0-8
+        uses: peaceiris/actions-gh-pages@v3.7.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./.cr-index
