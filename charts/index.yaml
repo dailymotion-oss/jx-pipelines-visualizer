@@ -7,12 +7,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: 173b0580dbd6e2ce6beb17e60eefd4f92e39192a014a6ca18dd53c9e77c66e6b
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.10/jx-pipelines-visualizer-0.0.10.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.10/jx-pipelines-visualizer-0.0.10.tgz
     version: 0.0.10
   - apiVersion: v1
     appVersion: 0.0.9
@@ -20,12 +20,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: 0edf13f7ad8a81a00370593e30426acee88e521680b78b58a892c2a632151e65
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.9/jx-pipelines-visualizer-0.0.9.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.9/jx-pipelines-visualizer-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v1
     appVersion: 0.0.8
@@ -33,12 +33,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: ff7d5869b1ac5bf40fdfbcfa9c1f6be84d32924419b642d4933a4d28d05ff143
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.8/jx-pipelines-visualizer-0.0.8.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.8/jx-pipelines-visualizer-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.7
@@ -46,12 +46,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: 198f62aaa409885a7453d258a46b8569b649b3975b75d0fbf3f12805f2e0827d
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.7/jx-pipelines-visualizer-0.0.7.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.7/jx-pipelines-visualizer-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
@@ -59,12 +59,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: 22ce05a1ab8d92649f05700d66ddd01a23c153ecff9b91ca26da5ccfc0480dfa
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.6/jx-pipelines-visualizer-0.0.6.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.6/jx-pipelines-visualizer-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
@@ -72,12 +72,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: 5dcdba227f349bca677f0a93c06eb7b1565244e2dfd69728609697bcbeade31a
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.5/jx-pipelines-visualizer-0.0.5.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.5/jx-pipelines-visualizer-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
@@ -85,12 +85,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: 5f3b0eea960c46e7dfa03f8d64ffa9d1c3866f5649ad195e3cd29b033c1c5a5e
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.4/jx-pipelines-visualizer-0.0.4.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.4/jx-pipelines-visualizer-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
@@ -98,12 +98,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: a64b1887ee46861c906fe3d1c8b5b25aae377ff967c3b3b60dc4ebb710e538c2
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.3/jx-pipelines-visualizer-0.0.3.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.3/jx-pipelines-visualizer-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
@@ -111,12 +111,12 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: 7d241f2f5c4dfb95822aa0729a7505d0d982d957f26ec016de2325573e9f5936
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.2/jx-pipelines-visualizer-0.0.2.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.2/jx-pipelines-visualizer-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.0
@@ -124,11 +124,11 @@ entries:
     description: Web UI for Jenkins X, with a clear goal - visualize the pipelines
       - and their logs.
     digest: b99f11c733f820b11846f47faa8e70e2f342d0c09701c05c8056b579581db9b8
-    home: https://github.com/dailymotion/jx-pipelines-visualizer
+    home: https://github.com/dailymotion-oss/jx-pipelines-visualizer
     name: jx-pipelines-visualizer
     sources:
-    - https://github.com/dailymotion/jx-pipelines-visualizer
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer
     urls:
-    - https://github.com/dailymotion/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.0/jx-pipelines-visualizer-0.0.0.tgz
+    - https://github.com/dailymotion-oss/jx-pipelines-visualizer/releases/download/jx-pipelines-visualizer-0.0.0/jx-pipelines-visualizer-0.0.0.tgz
     version: 0.0.0
 generated: "2020-09-18T12:26:09.350192161Z"
